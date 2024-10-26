@@ -1,3 +1,4 @@
+'use client';
 import { useToast } from '@/hooks/use-toast';
 import { formatDate } from '@/utils/formatData';
 import Image from 'next/image';
