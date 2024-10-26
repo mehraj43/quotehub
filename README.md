@@ -13,11 +13,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 Installation:
 
 1. **Clone the repository:**
-bash
-
-Copy code
-
-git clone https://github.com/mehraj43/quotehub.git
+**git clone:** https://github.com/mehraj43/quotehub.git
 
 cd quotehub
 
