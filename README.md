@@ -15,28 +15,28 @@ Installation:
 1. **Clone the repository:**
 **git clone:** https://github.com/mehraj43/quotehub.git
 
-cd quotehub
+    cd quotehub
 
 2. **Install dependencies:**
 To install dependencies:
 
     npm install
-    or
+    ## or
     yarn install
-    or
+    ## or
     pnpm install
-    or
+    ## or
     bun install
 
 3. **Running the Development Server:**
 Start the development server on your local machine:
 
     npm run dev
-    or
+    ## or
     yarn dev
-    or
+    ## or
     pnpm dev
-    or
+    ## or
     bun dev
 
 Once the server is running, open http://localhost:3000 in your browser to view the application.
